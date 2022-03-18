@@ -1,5 +1,6 @@
 # virtualgamecoin
-Virtualgamecoin open source information
+Virtualgamecoin open source information.
+
 We are trying to build a decentralized internet facility. Instead of DNS, all access is guided by miners, and all data is stored anonymously in IPFS.
 
 You can freely do anything through it. No country or organization can control it.VGCers can use VGC to pay and trade with each other in VGC ecology applications.
